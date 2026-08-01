@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/moyanshpanwar/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moyanshpanwar/leetcode/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/moyanshpanwar/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/moyanshpanwar/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/moyanshpanwar/leetcode/tree/master/0136-single-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/moyanshpanwar/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/moyanshpanwar/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/moyanshpanwar/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/moyanshpanwar/leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/moyanshpanwar/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
