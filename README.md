@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/moyanshpanwar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/moyanshpanwar/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/moyanshpanwar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/moyanshpanwar/leetcode/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/moyanshpanwar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
