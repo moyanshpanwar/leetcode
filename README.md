@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/moyanshpanwar/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moyanshpanwar/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/moyanshpanwar/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/moyanshpanwar/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/moyanshpanwar/leetcode/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/moyanshpanwar/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/moyanshpanwar/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
