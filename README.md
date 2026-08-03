@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/moyanshpanwar/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/moyanshpanwar/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/moyanshpanwar/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/moyanshpanwar/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/moyanshpanwar/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0088-merge-sorted-array) |
@@ -181,9 +182,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/moyanshpanwar/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/moyanshpanwar/leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/moyanshpanwar/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/moyanshpanwar/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moyanshpanwar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
