@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/moyanshpanwar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/moyanshpanwar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/moyanshpanwar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
