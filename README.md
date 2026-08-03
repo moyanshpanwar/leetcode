@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/moyanshpanwar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moyanshpanwar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/moyanshpanwar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/moyanshpanwar/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/moyanshpanwar/leetcode/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/moyanshpanwar/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moyanshpanwar/leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/moyanshpanwar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/moyanshpanwar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/moyanshpanwar/leetcode/tree/master/0169-majority-element) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/moyanshpanwar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/moyanshpanwar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
