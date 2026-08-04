@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/moyanshpanwar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/moyanshpanwar/leetcode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/moyanshpanwar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/moyanshpanwar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/moyanshpanwar/leetcode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/moyanshpanwar/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -247,11 +249,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/moyanshpanwar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/moyanshpanwar/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/moyanshpanwar/leetcode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -288,4 +292,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/moyanshpanwar/leetcode/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
