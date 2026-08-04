@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/moyanshpanwar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/moyanshpanwar/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/moyanshpanwar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/moyanshpanwar/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/moyanshpanwar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/moyanshpanwar/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
