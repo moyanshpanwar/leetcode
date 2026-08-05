@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/moyanshpanwar/leetcode/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/moyanshpanwar/leetcode/tree/master/1446-consecutive-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/moyanshpanwar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/moyanshpanwar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/moyanshpanwar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/moyanshpanwar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/moyanshpanwar/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/moyanshpanwar/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/moyanshpanwar/leetcode/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
