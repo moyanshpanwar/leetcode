@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/moyanshpanwar/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/moyanshpanwar/leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/moyanshpanwar/leetcode/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/moyanshpanwar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/moyanshpanwar/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/moyanshpanwar/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/moyanshpanwar/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/moyanshpanwar/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/moyanshpanwar/leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/moyanshpanwar/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/moyanshpanwar/leetcode/tree/master/0796-rotate-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/moyanshpanwar/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/moyanshpanwar/leetcode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/moyanshpanwar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
