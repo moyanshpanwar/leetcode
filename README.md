@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/moyanshpanwar/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/moyanshpanwar/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/moyanshpanwar/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/moyanshpanwar/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/moyanshpanwar/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/moyanshpanwar/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/moyanshpanwar/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/moyanshpanwar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/moyanshpanwar/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/moyanshpanwar/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/moyanshpanwar/leetcode/tree/master/0258-add-digits) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/moyanshpanwar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/moyanshpanwar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/moyanshpanwar/leetcode/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
