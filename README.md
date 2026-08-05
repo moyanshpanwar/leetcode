@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/moyanshpanwar/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/moyanshpanwar/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/moyanshpanwar/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/moyanshpanwar/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/moyanshpanwar/leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/moyanshpanwar/leetcode/tree/master/0771-jewels-and-stones) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/moyanshpanwar/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/moyanshpanwar/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/moyanshpanwar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/moyanshpanwar/leetcode/tree/master/0189-rotate-array) |
