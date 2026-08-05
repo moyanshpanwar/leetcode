@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/moyanshpanwar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/moyanshpanwar/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/moyanshpanwar/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/moyanshpanwar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/moyanshpanwar/leetcode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/moyanshpanwar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/moyanshpanwar/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/moyanshpanwar/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
