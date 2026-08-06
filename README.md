@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moyanshpanwar/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/moyanshpanwar/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/moyanshpanwar/leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/moyanshpanwar/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/moyanshpanwar/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0064-minimum-path-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/moyanshpanwar/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moyanshpanwar/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/moyanshpanwar/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/moyanshpanwar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/moyanshpanwar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/moyanshpanwar/leetcode/tree/master/0142-linked-list-cycle-ii) |
