@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/moyanshpanwar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/moyanshpanwar/leetcode/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/moyanshpanwar/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/moyanshpanwar/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/moyanshpanwar/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/moyanshpanwar/leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/moyanshpanwar/leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
