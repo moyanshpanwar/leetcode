@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3046-split-the-array](https://github.com/moyanshpanwar/leetcode/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/moyanshpanwar/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/moyanshpanwar/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/moyanshpanwar/leetcode/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/moyanshpanwar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/moyanshpanwar/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/moyanshpanwar/leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
