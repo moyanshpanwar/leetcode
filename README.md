@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/moyanshpanwar/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/moyanshpanwar/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/moyanshpanwar/leetcode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/moyanshpanwar/leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/moyanshpanwar/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/moyanshpanwar/leetcode/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/moyanshpanwar/leetcode/tree/master/1446-consecutive-characters) |
