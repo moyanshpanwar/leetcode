@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/moyanshpanwar/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/moyanshpanwar/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/moyanshpanwar/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/moyanshpanwar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/moyanshpanwar/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/moyanshpanwar/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0064-minimum-path-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/moyanshpanwar/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/moyanshpanwar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/moyanshpanwar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/moyanshpanwar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/moyanshpanwar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moyanshpanwar/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moyanshpanwar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/moyanshpanwar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/moyanshpanwar/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/moyanshpanwar/leetcode/tree/master/0125-valid-palindrome) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/moyanshpanwar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/moyanshpanwar/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/moyanshpanwar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/moyanshpanwar/leetcode/tree/master/0070-climbing-stairs) |
@@ -388,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/moyanshpanwar/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/moyanshpanwar/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
