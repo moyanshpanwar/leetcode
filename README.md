@@ -417,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/moyanshpanwar/leetcode/tree/master/0042-trapping-rain-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/moyanshpanwar/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
