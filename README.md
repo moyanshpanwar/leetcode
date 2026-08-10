@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/moyanshpanwar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/moyanshpanwar/leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0877-stone-game](https://github.com/moyanshpanwar/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/moyanshpanwar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/moyanshpanwar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/moyanshpanwar/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/moyanshpanwar/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/moyanshpanwar/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/moyanshpanwar/leetcode/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/moyanshpanwar/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/moyanshpanwar/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/moyanshpanwar/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/moyanshpanwar/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moyanshpanwar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/moyanshpanwar/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/moyanshpanwar/leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -431,4 +434,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/moyanshpanwar/leetcode/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/moyanshpanwar/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/moyanshpanwar/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/moyanshpanwar/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
